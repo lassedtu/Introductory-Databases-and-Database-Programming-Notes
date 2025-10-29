@@ -1,10 +1,9 @@
 - teacher birthday 21/01
 # Write / update these notes
-- [[Database Schema]]
-- [[Database Schema Diagram]] $\ \checkmark$
-- [[Database Instance]]
+- Database Schema
+- [[Entity-Relationship (ER) Diagrams]] $\ \checkmark$
+- Database Instance
 
-- [[SQL (Structured Query Language)]] UPDATE $\rightarrow$ (book sec 3.1)
 
 # DDL (Data Definition Language)
 
